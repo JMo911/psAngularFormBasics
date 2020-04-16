@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ps-form-demo"
+    }
+  },
+  "defaultProject": "ps-form-demo",
+  "cli": {
+    "analytics": false
+  }
 }
